@@ -1,0 +1,9 @@
+/* Dark mode refinements — color-scheme and scrollbar */
+
+[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+[data-theme="light"] {
+  color-scheme: light;
+}
